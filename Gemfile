@@ -8,7 +8,7 @@ gem 'rails', '3.2.13'
 gem 'sqlite3', :group => :development
 gem 'sqlite3-ruby', '1.3.2', :require => 'sqlite3', :group => :development
 
-em 'sqlite3', :group => :test
+gem 'sqlite3', :group => :test
 gem 'sqlite3-ruby', '1.3.2', :require => 'sqlite3', :group => :test
 
 # Gems used only for assets and not required
